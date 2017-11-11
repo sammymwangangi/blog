@@ -1,11 +1,5 @@
 *.pyc
-*.pyo
-*.db
 *~
-__pycache__
+_pycache_
 star
-db.sqlite3
-.DS_Store
-.coverage
-local_settings.py
 /static
