@@ -4,4 +4,3 @@ _pycache_
 star
 db.sqlite3
 .DS_Store
-/static
