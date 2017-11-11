@@ -85,8 +85,6 @@ from django.utils.translation import ugettext_lazy as _
 # INSTALLED_APPS setting.
 USE_MODELTRANSLATION = False
 
-BLOG_SLUG = ""
-
 ########################
 # MAIN DJANGO SETTINGS #
 ########################
