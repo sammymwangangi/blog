@@ -76,7 +76,8 @@ from django.utils.translation import ugettext_lazy as _
 #         {"blank": True, "default": 1},
 #     ),
 # )
-
+SECRET_KEY = "#+nsqpo&29!x0b$5@l6xda*$b)5cp^kmh39r(@g=79y(x=ryj&"
+NEVERCACHE_KEY = "&!vfn0a4$5noy2gq#mhf7ag&oa64^sn(fdj)w==q=5nlsl3l-u"
 # Setting to turn on featured images for blog posts. Defaults to False.
 #
 # BLOG_USE_FEATURED_IMAGE = True
